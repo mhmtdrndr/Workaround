@@ -1,0 +1,11 @@
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\bin\Debug\net8.0\Entities.dll
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\bin\Debug\net8.0\Entities.pdb
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\obj\Debug\net8.0\Entities.dll
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\obj\Debug\net8.0\Entities.pdb
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Entities\obj\Debug\net8.0\ref\Entities.dll
