@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{E8B4E4F2-033D-4206-843C-5A1A249A54EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{DAE7A872-C610-4345-B8DB-C1C700988DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{FF85AD35-B3FC-4FBA-BA5F-CD5C7D26FC07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8B4E4F2-033D-4206-843C-5A1A249A54EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B4E4F2-033D-4206-843C-5A1A249A54EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B4E4F2-033D-4206-843C-5A1A249A54EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B4E4F2-033D-4206-843C-5A1A249A54EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE7A872-C610-4345-B8DB-C1C700988DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE7A872-C610-4345-B8DB-C1C700988DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE7A872-C610-4345-B8DB-C1C700988DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE7A872-C610-4345-B8DB-C1C700988DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF85AD35-B3FC-4FBA-BA5F-CD5C7D26FC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF85AD35-B3FC-4FBA-BA5F-CD5C7D26FC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF85AD35-B3FC-4FBA-BA5F-CD5C7D26FC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF85AD35-B3FC-4FBA-BA5F-CD5C7D26FC07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF30A3B1-C02B-48FB-A9CC-58979A2C2652}
+	EndGlobalSection
+EndGlobal
