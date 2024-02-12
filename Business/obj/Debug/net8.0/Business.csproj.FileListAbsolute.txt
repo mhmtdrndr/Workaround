@@ -1,0 +1,15 @@
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\bin\Debug\net8.0\Business.deps.json
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\bin\Debug\net8.0\Business.dll
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\bin\Debug\net8.0\Business.pdb
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\bin\Debug\net8.0\Entities.dll
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\bin\Debug\net8.0\Entities.pdb
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\Business.dll
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\refint\Business.dll
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\Business.pdb
+D:\calismalarim\c#Calismalar\MaskeTakip\Workaround\Business\obj\Debug\net8.0\ref\Business.dll
